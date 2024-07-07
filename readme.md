@@ -4,7 +4,7 @@
 ## Summary
 | Code      | Name        | Published Article |  
 |-----------|-------------|:-------------:|
-| LP3      | Customer Churn Prediction  |https://www.linkedin.com/pulse/telco-customer-churn-prediction-ml-classification-problem-dadzie  [](/) | 
+| LP3      | Customer Churn Prediction  |  https://medium.com/@kobenaenyam enhancing-customer-retention-through-churn-prediction-a-machine-learning-approach-to-5ab72b079105  [](/) | 
 --------------------------------------------------
 
 ## Project Description
